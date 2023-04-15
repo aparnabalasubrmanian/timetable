@@ -116,5 +116,9 @@ Execute the program
 
 ![OUTPUT](./out.png)
 
+# HTML VALIDATOR
+
+![VALIDATOR](.valid.png)
+
 # RESULT    
 hence we created a html webpage page to display your timetable.
